@@ -1,1 +1,1 @@
-# SignPRS
+# MuSiG-PRS
